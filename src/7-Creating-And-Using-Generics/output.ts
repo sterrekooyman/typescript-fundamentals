@@ -185,3 +185,7 @@ async function runTheLearningSamples() {
   // const pearFood: FoodProduct = pear;
   const pearFood: Partial<FoodProduct> = pear;
 }
+
+
+
+
